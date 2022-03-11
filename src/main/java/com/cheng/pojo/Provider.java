@@ -8,6 +8,9 @@ public class Provider {
 	private String proCode; //供应商编码
 	private String proName; //供应商名称
 	private String proDesc; //供应商描述
+
+	//stat
+
 	private String proContact; //供应商联系人
 	private String proPhone; //供应商电话
 	private String proAddress; //供应商地址
