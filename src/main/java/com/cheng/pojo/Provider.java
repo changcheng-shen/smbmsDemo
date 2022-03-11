@@ -10,7 +10,10 @@ public class Provider {
 	private String proDesc; //供应商描述
 
 
+	// fix1
+
 	// fix2
+
 
 	//stat
 
