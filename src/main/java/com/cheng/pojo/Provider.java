@@ -9,6 +9,9 @@ public class Provider {
 	private String proName; //供应商名称
 	private String proDesc; //供应商描述
 
+
+	// fix2
+
 	//stat
 
 	private String proContact; //供应商联系人
