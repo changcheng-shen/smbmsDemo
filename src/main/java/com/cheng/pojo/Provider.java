@@ -12,6 +12,9 @@ public class Provider {
 
 	// fix1
 
+	// fix2
+
+
 	//stat
 
 	private String proContact; //供应商联系人
