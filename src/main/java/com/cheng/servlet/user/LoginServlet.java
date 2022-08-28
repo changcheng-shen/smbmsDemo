@@ -34,6 +34,7 @@ public class LoginServlet extends HttpServlet {
         }else {// 登录失败
             // git test
             // git test rollback
+            // 这是在分支gitTest_28的修改
             req.setAttribute("error", "用户名或密码不正确");
             req.getRequestDispatcher("login.jsp").forward(req, resp);
         }
