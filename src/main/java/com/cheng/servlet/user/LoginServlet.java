@@ -32,6 +32,7 @@ public class LoginServlet extends HttpServlet {
             resp.sendRedirect("jsp/frame.jsp");
 
         }else {// 登录失败
+            // git test
             req.setAttribute("error", "用户名或密码不正确");
             req.getRequestDispatcher("login.jsp").forward(req, resp);
         }
